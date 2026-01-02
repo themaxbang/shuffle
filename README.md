@@ -1,6 +1,7 @@
 # Shuffle
 **Shuffle** is a case for the SuperMini nRF52840 controller, designed to be used as a ZMK dongle.
-[![Shuffle]()]()
+
+[![Shuffle](https://github.com/themaxbang/shuffle/blob/main/img/shuffle_001.jpg)](https://github.com/themaxbang/shuffle/blob/main/img/shuffle_001.jpg)
 
 ## Features
 - 3D printed case (FDM)
